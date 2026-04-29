@@ -23,6 +23,13 @@ The workflow combines **SQL for data preparation** and **Excel for visualization
 
 ---
 
+## 🔗 Related Project
+
+The SQL data preparation for this dashboard can be found here:  
+👉 https://github.com/Nicole46-ctrl/SQL-Netflix
+
+---
+
 ## 🧠 Key Insights
 
 - Movies dominate the catalog with approximately **65%**, while series account for **35%**
